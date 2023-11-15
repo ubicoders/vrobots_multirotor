@@ -23,7 +23,7 @@ python -c "import ubicoders_vrobots_bridge.vrobots_bridge_gui as gui; gui.gui_ap
 ## Connect the Virtual Robot 
 ![](./images/vrobots_connect.png)
 
-## Run the tempalte script
+## Run the template script
 ```
 python my_vrobot.py
 ```
