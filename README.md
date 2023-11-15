@@ -1,14 +1,15 @@
 # Ubicoders Virtual Robot - Multirotor
 
 The virtual robot is here:
-<a href="https://www.ubicoders.com/virtualrobots/multirotor" target="_blank">Virtual Multitor</a>
+[Virtual Multitor](https://www.ubicoders.com/virtualrobots/multirotor
+) 
 
 
 Requirements:
 - Python 3
 - ubicoders-vrobots pip packge
 
-## Once you have Python 3,
+## Once you have Python 3
 
 ```
 pip install ubicoders-vrobots
